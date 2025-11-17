@@ -11,4 +11,5 @@ for i in range(11):
     
 print("== cara buat list tapi dengan lompatan n value ==")
 myList = list(range(0,11,3))
-print(myList)
+print(myList, myList) #update
+print(myList) #add new line
